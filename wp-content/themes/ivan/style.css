@@ -1,0 +1,9 @@
+/*
+Theme Name: Ivan
+Description: Child theme for Themify Ultra
+Author: Themify
+Template: twentyseventeen
+*/
+
+@import url("../twentyseventeen/style.css");
+@import url("editor-styles-ivan.css");
