@@ -6,6 +6,11 @@
  * Time: 12:33 PM
  */
 
+require('shortcodes.php');
+require('advanced-custom-fields.php');
+
+
+
 function wpb_mce_buttons_2($buttons) {
     array_unshift($buttons, 'styleselect');
     return $buttons;
